@@ -3,3 +3,12 @@ git init
 git config --global user.name "Roberto"
 git config --global user.mail "belarlp@gmail.com"
 git config --global -e
+
+git status  (veo el esatdo de los archivos)
+
+
+git add .  (va a pasar toidos los archivos al area de ensayo )
+git commit .m  "primer commit"  (una copia con el nombre de la descripcion y pasando la repo local)
+git branch -M main ( cree la rama main)
+git remote add origin https://github.com/rrrr/sdfgsf.git   (relaciono mi git con el servidor)
+git push -u origin main 
