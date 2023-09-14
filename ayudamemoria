@@ -1,0 +1,5 @@
+dsecargar e instalar git
+git init
+git config --global user.name "Roberto"
+git config --global user.mail "belarlp@gmail.com"
+git config --global -e
